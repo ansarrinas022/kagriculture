@@ -100,3 +100,4 @@ Expected output:
 
 - Correlation does **not** imply causation. Observed associations between farming actions (e.g., land expansion) and winning scores reflect empirical historical tendencies.
 - Predictions and strategy recommendations demonstrate statistical patterns and do not guarantee future tournament victories against novel agent architectures.
+# kagriculture
